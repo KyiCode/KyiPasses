@@ -1,0 +1,11 @@
+# Editor temporary files
+*.swp
+*.swo
+
+# Local environment and build output
+.env
+.env.*
+node_modules/
+dist/
+build/
+target/
